@@ -1,0 +1,14 @@
+{
+    "name": "tugas1",
+    "version": "1.0.0",
+    "description": "Deskripsi proyek Anda",
+    "main": "tugas1.js",
+    "scripts": {
+        "start": "node index.js",
+        "serve": "node index.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+    }
+  }
+  
